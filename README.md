@@ -8,7 +8,7 @@ https://github.com/vtjx/Tap2Win-Game/assets/141054696/bf0de839-5d2c-412f-a42c-43
 <h2>Controls</h2>
 Mobile Version - Touch Inputs
 
-PC Version - Mouse Click
+PC Version - Mouse Click, Esc to quit the game
 
 <h2>Releases</h2>
 Download the pre-installed game under <a href="https://github.com/vtjx/Tap2Win-Game/releases/tag/Game">Releases</a>
