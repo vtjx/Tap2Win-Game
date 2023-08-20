@@ -11,6 +11,8 @@ Mobile Version - Touch Inputs
 PC Version - Mouse Click, Esc to quit the game
 
 <h2>Releases</h2>
+Try the game on <a href="https://valenxt.itch.io/tap2win">itch.io</a>
+
 Download the pre-installed game under <a href="https://github.com/vtjx/Tap2Win-Game/releases/tag/Game">Releases</a>
 
 Download the Play Store version <a href="https://play.google.com/store/apps/details?id=com.jXGames.Tap2Win">Here</a>
